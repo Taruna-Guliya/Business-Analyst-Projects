@@ -9,4 +9,5 @@ Analyzed 5,900+ flight records to identify delay bottlenecks, gate congestion, a
 - 📊 [Raw Data & Analysis (Excel)](project-1-skylink-airport/CLEANED_DATA.xlsx)
 
 **Tools:** Excel, Pivot Tables, Dashboards
+
 **Skills:** Requirements gathering, KPI definition, root cause analysis, stakeholder analysis
