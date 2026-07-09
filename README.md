@@ -10,4 +10,4 @@ Analyzed 5,900+ flight records to identify delay bottlenecks, gate congestion, a
 
 **Tools:** Excel, Pivot Tables, Dashboards
 
-**Skills:** Requirements gathering, KPI definition, root cause analysis, stakeholder analysis
+**Skills:** Requirements Gathering, KPI definition, Root Cause Analysis, Stakeholder Analysis
